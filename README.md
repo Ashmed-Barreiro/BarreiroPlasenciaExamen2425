@@ -48,4 +48,7 @@
 ## Afegeix i fes commit dels canvis a la branca documentacio. El missatge del commit ha de ser "3 - README.md amb documentació inicial"
 ![Añadir readme y hacer el 3er commit](Imagenes/img13.png)
 
+## Torna a la branca principal (main) i fes un merge
+![Regrear a la pagina principal y hacer merge](Imagenes/img14.png)
+
 
