@@ -51,4 +51,14 @@
 ## Torna a la branca principal (main) i fes un merge
 ![Regrear a la pagina principal y hacer merge](Imagenes/img14.png)
 
+# 5. Remot i publicació
+## Configura un remot per al repositori que has de crear en GitHub, el nom del repositorio de GitHub ha de ser Cognom1Cognom2Examen2425. Fes captura al terminal de com has configurat el repositori remot.
+![Configurar el repositorio en git hub](Imagenes/img15.png)
+
+## Puja els canvis al remot desde terminal.Fes captura al terminal.
+![Subir los cambios a git](Imagenes/img16.png)
+
+## Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.
+
+https://barreiro-plasencia-examen2425-6ccl69kui.vercel.app/
 
